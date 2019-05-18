@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/renming/CLionProjects/knn/knn.cpp
+knn.h
+/home/renming/CLionProjects/knn/knn.h
+
+/home/renming/CLionProjects/knn/knn.h
+
+/home/renming/CLionProjects/knn/main.cpp
+iostream
+-
+cmath
+-
+boost/random/linear_congruential.hpp
+-
+boost/random/uniform_int.hpp
+-
+boost/random/uniform_real.hpp
+-
+boost/random/variate_generator.hpp
+-
+boost/generator_iterator.hpp
+-
+boost/random.hpp
+-
+vector
+-
+glog/logging.h
+-
+glog/stl_logging.h
+-
+iostream
+-
+

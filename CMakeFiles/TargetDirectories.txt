@@ -1,0 +1,3 @@
+/home/renming/CLionProjects/knn/CMakeFiles/rebuild_cache.dir
+/home/renming/CLionProjects/knn/CMakeFiles/knn.dir
+/home/renming/CLionProjects/knn/CMakeFiles/edit_cache.dir
